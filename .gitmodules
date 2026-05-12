@@ -1,0 +1,3 @@
+[submodule "pcbs/robot-coprocessor"]
+	path = pcbs/robot-coprocessor
+	url = https://github.com/ocanath/robot-coprocessor
