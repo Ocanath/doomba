@@ -1,6 +1,6 @@
-[submodule "pcbs/robot-coprocessor"]
-	path = pcbs/robot-coprocessor
-	url = https://github.com/ocanath/robot-coprocessor
+[submodule "pcbs/robot-coprocessor-pcb"]
+	path = pcbs/robot-coprocessor-pcb
+	url = https://github.com/ocanath/robot-coprocessor-pcb
 [submodule "doomba-embedded/wifi-uart-bridge-esp32"]
 	path = doomba-embedded/wifi-uart-bridge-esp32
 	url = https://github.com/Ocanath/wifi-uart-bridge-esp32
