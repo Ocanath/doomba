@@ -7,3 +7,6 @@
 [submodule "doomba-embedded/robot-coprocessor-firmware"]
 	path = doomba-embedded/robot-coprocessor-firmware
 	url = https://github.com/ocanath/robot-coprocessor-firmware
+[submodule "pcbs/hp-foc-pcb"]
+	path = pcbs/hp-foc-pcb
+	url = https://github.com/ocanath/hp-foc-pcb
