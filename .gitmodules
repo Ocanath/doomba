@@ -10,3 +10,6 @@
 [submodule "pcbs/hp-foc-pcb"]
 	path = pcbs/hp-foc-pcb
 	url = https://github.com/ocanath/hp-foc-pcb
+[submodule "pcbs/doomba-bdc-pcb"]
+	path = pcbs/doomba-bdc-pcb
+	url = https://github.com/Ocanath/doomba-bdc-pcb
