@@ -13,3 +13,9 @@
 [submodule "pcbs/doomba-bdc-pcb"]
 	path = pcbs/doomba-bdc-pcb
 	url = https://github.com/Ocanath/doomba-bdc-pcb
+[submodule "pcbs/usb-rs485"]
+	path = pcbs/usb-rs485
+	url = https://github.com/Ocanath/usb-rs485
+[submodule "doomba-embedded/foc-code"]
+	path = doomba-embedded/foc-code
+	url = https://github.com/ocanath/foc-code
