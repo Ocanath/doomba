@@ -7,15 +7,12 @@
 [submodule "doomba-embedded/robot-coprocessor-firmware"]
 	path = doomba-embedded/robot-coprocessor-firmware
 	url = https://github.com/ocanath/robot-coprocessor-firmware
-[submodule "pcbs/hp-foc-pcb"]
-	path = pcbs/hp-foc-pcb
-	url = https://github.com/ocanath/hp-foc-pcb
 [submodule "pcbs/doomba-bdc-pcb"]
 	path = pcbs/doomba-bdc-pcb
 	url = https://github.com/Ocanath/doomba-bdc-pcb
 [submodule "pcbs/usb-rs485"]
 	path = pcbs/usb-rs485
 	url = https://github.com/Ocanath/usb-rs485
-[submodule "doomba-embedded/foc-code"]
-	path = doomba-embedded/foc-code
-	url = https://github.com/ocanath/foc-code
+[submodule "foc-actuator"]
+	path = foc-actuator
+	url = https://github.com/ocanath/foc-actuator
