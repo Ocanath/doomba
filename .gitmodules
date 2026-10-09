@@ -16,3 +16,6 @@
 [submodule "foc-actuator"]
 	path = foc-actuator
 	url = https://github.com/ocanath/foc-actuator
+[submodule "doomba-embedded/doomba-bdc-firmware"]
+	path = doomba-embedded/doomba-bdc-firmware
+	url = https://github.com/ocanath/doomba-bdc-firmware
